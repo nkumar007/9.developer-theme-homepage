@@ -5,7 +5,7 @@
 
   <p align="left">
     <br />
-    <a href="">Deployed Link</a>
+    <a href="https://developer-api-provider.netlify.app/">Deployed Link</a>
   </p>
 </div>
 
@@ -66,5 +66,5 @@ Took me almost `3` hours to build this from scratch.
 
 <!-- Project screenshot -->
 
-[project-url]:
-[source-code]:
+[project-url]: https://developer-api-provider.netlify.app/
+[source-code]: https://github.com/nkumar007/9.developer-theme-homepage
